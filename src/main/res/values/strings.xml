@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Compass Example</string>
+    
+    <string name="distance">Distance to target location: %1$f</string>
+    <string name="location_start">Start\nLocation</string>
+    <string name="location_destination">Destination\nLocation</string>
+    <string name="latitude">Latitude: %1$f</string>
+    <string name="longitude">Longitude: %1$f</string>
+    
+    <string name="error_sensors_not_found">Sensors Not Found</string>
+</resources>
